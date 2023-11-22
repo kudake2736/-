@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#tetris-container {
+    border: 1px solid #000;
+}
+
+canvas {
+    display: block;
+    margin: auto;
+}
